@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>SMALL AXE PORTAL</title>
+
+<!-- ホーム画面アイコン -->
+<link rel="apple-touch-icon" href="./icon180.png">
+<link rel="icon" sizes="192x192" href="./icon192.png">
+
+<!-- 自動リダイレクト -->
+<meta http-equiv="refresh" content="0; URL=https://sites.google.com/smallaxetokyo.com/smallaxe-top/small-axe-top">
+</head>
+<body>
+</body>
+</html>
